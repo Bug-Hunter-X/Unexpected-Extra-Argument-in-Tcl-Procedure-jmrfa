@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error: passing more arguments to a procedure than it's defined to accept. The `bug.tcl` file shows the problematic code, while `bugSolution.tcl` provides a corrected version.  The issue arises from not checking the number of arguments passed. The solution emphasizes the importance of argument validation.
